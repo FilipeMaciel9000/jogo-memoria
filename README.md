@@ -23,7 +23,7 @@ O objetivo é encontrar todos os pares de cartas iguais, usando apenas sua memó
 
 | Tela Inicial                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1902" height="840" alt="image" src="https://photos.fife.usercontent.google.com/pw/AP1GczN1vZa3kk9FBI_fKtvFiBXNge4ZSyg4M890h0PxAzjTxob3tD5VihVn2Q=w1902-h802-s-no-gm?authuser=0)/"> |
+| <img width="1902" height="840" alt="image" src="https://photos.fife.usercontent.google.com/pw/AP1GczN1vZa3kk9FBI_fKtvFiBXNge4ZSyg4M890h0PxAzjTxob3tD5VihVn2Q=w1902-h802-s-no-gm?authuser=0"> |
 
 ---
 
